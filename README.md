@@ -1,5 +1,7 @@
 # ArgoUML-SPL Evolved
 
+*This data set will be published as part of the research paper "Preserving Consistency of Interrelated Models during View-Based Evolution of Variable Systems" at the 21st International Conference on Generative Programming: Concepts & Experiences (GPCE 2022).*
+
 The ArgoUML-SPL Evolved comprises nine revisions of the ArgoUML-SPL case study, that were created by integrating the revisions of ArgoUML into the ArgoUML-SPL, starting with the commit of ArgoUML from which the ArgoUML-SPL was initially extracted (43d8b97e).  
 
 For every commit of ArgoUML, the changes were manually  merged via [Meld](https://meldmerge.org/) into the ArgoUML-SPL. For every change in every file, the feature expressions were derived. Every change of a feature expression leads to a new system revision of the evolved ArgoUML-SPL. 
